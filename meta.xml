@@ -1,0 +1,6 @@
+<meta>
+     <info author="Mrusi" type="script" name="Venicle_engine" description="venicle engine and light" />
+     <script src="engine.lua" type="server"/>
+     <script src="light.lua" type="server"/>
+     <script src="jump.lua" type="server"/>
+</meta>
