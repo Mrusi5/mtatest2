@@ -1,0 +1,4 @@
+<meta>
+     <info author="Mrusi" type="script" name="Venicle_spawn" description="venicle spawn" />
+     <script src="spawn.lua" type="server"/>
+</meta>
